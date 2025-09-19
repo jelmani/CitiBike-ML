@@ -1,0 +1,1 @@
+This repo is all about using NYC CitiBike data to learn Machine Learning and Data Science. Download the data from [here](https://citibikenyc.com/system-data) and update the read_csv line to appropiate file path.
